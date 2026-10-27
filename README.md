@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="ChemPad icon" width="128" height="128">
+  <img src="icony.ico" alt="ChemPad icon" width="128" height="128">
 </p>
 
 <h1 align="center">ChemPad</h1>
@@ -7,7 +7,7 @@
 <p align="center"><b>A Notepad for Chemistry</b></p>
 
 <p align="center">
-  Draw molecules, read the SMILES, and export 2D and 3D structures. Built with PySide6, VTK and RDKit.
+  Quickly Sketch Compounds and Reaction Scheme. No Buttons !!, Its You and Your Quest for New Compounds
 </p>
 
 <p align="center">
