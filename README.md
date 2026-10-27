@@ -127,3 +127,7 @@ The header of `chempad_widget.py` documents the full API.
 
 Molecular Design Group
 
+Muzammil Kabier: muzammil.kabier2@mail.dcu.ie
+Anthony Chubb: anthony.chubb@dcu.ie
+
+
