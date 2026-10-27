@@ -116,8 +116,3 @@ The header of `chempad_widget.py` documents the full API.
 Molecular Design Group
 Dublin City University
 
-The window icon is loaded from `icony.ico` next to the executable, so copy it into `dist/ChemPad/`.
-
-## Contributing
-
-Issues and pull requests are welcome.
