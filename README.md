@@ -128,6 +128,7 @@ The header of `chempad_widget.py` documents the python usage for QWidget.
 Molecular Design Group, Dublin City University
 
 Muzammil Kabier: muzammil.kabier2@mail.dcu.ie,
-Anthony Chubb: anthony.chubb@dcu.ie
+Anthony Chubb: anthony.chubb@dcu.ie,
+Paul Clarke: paul.clarke@uia.no
 
 
