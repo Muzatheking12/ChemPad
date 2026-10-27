@@ -13,6 +13,11 @@
 
 ---
 
+## GUI
+
+<p align="center"><img src="screenshot.png" alt="ChemPad screenshot" width="600"></p>
+
+
 ## Features
 
 - Draw atoms, single/double/triple bonds, chains and fused structures with the mouse
