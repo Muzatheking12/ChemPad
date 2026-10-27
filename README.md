@@ -47,7 +47,7 @@ Download the installer from SourceForge and run it:
 Clone the repository, install the requirements, and run:
 
 ```
-git clone https://github.com/<your-username>/ChemPad.git
+git clone https://github.com/Muzatheking12/ChemPad.git
 cd ChemPad
 python3 -m venv venv
 source venv/bin/activate
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python ChemPad.py
 ```
 
-Requirements (also listed in `requirements.txt`): PySide6, vtk, rdkit, numpy.
+
 
 ## Project files
 
