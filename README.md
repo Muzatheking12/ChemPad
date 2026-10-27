@@ -10,14 +10,6 @@
   Quickly Sketch Compounds and Reaction Scheme. No Buttons !!, Its You and Your Quest for New Compounds
 </p>
 
-<p align="center">
-  <a href="https://sourceforge.net/projects/chempad/files/latest/download">
-    <img alt="Download ChemPad" src="https://a.fsdn.com/con/app/sf-download-button">
-  </a>
-  <a href="https://sourceforge.net/projects/chempad/files/latest/download">
-    <img alt="Downloads" src="https://img.shields.io/sourceforge/dt/chempad.svg">
-  </a>
-</p>
 
 ---
 
