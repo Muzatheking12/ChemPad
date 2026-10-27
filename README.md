@@ -44,8 +44,16 @@ Download the installer from SourceForge and run it:
 
 ### Linux
 
-Clone the repository, install the requirements, and run:
+Deactivate conda (if running) before activating uv:
 
+```
+conda deactivate
+conda deactivate
+```
+
+Clone the repository and install the requirements:
+
+<!--
 ```
 git clone https://github.com/Muzatheking12/ChemPad.git
 cd ChemPad
@@ -54,7 +62,27 @@ source venv/bin/activate
 pip install -r requirements.txt
 python ChemPad.py
 ```
+-->
 
+```
+git clone https://github.com/Muzatheking12/ChemPad.git
+cd ChemPad
+uv venv --python 3.12
+```
+
+Run ChemPad:
+
+```
+source .venv/bin/activate
+uv sync
+python ChemPad.py
+```
+
+To deactivate the ChemPad environment:
+
+```
+deactivate
+```
 
 
 ## Project files
