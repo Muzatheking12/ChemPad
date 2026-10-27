@@ -8,7 +8,7 @@
 
 <p align="center">
   Quickly Sketch Compounds and Reaction Scheme
-  .No Buttons, A Clean Pad for your Compound Hunt
+  . No Buttons !!, A Clean Pad for your Compound Hunt
 </p>
 
 ---
