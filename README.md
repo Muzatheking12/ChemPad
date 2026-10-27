@@ -84,6 +84,18 @@ To deactivate the ChemPad environment:
 deactivate
 ```
 
+### MacOS
+
+'''
+git clone https://github.com/Muzatheking12/ChemPad.git
+cd ChemPad
+brew install uv
+uv venv .venv --python 3.12
+source .venv/bin/activate
+uv sync
+python ChemPad.py
+'''
+
 
 ## Project files
 
