@@ -78,7 +78,7 @@ uv sync
 python ChemPad.py
 ```
 
-To deactivate the venv environment:
+To deactivate the ChemPad environment:
 
 ```
 deactivate
