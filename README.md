@@ -87,7 +87,7 @@ sketcher.set_smiles("CC(=O)Oc1ccccc1C(=O)O")
 sketcher.export("sdf", "out.sdf")  # mol, sdf, smi, inchi, inchikey, pdb, xyz
 ```
 
-The header of `chempad_widget.py` documents the full API.
+The header of `chempad_widget.py` documents the python usage for QWidget.
 
 ## Mouse and keyboard
 
