@@ -29,7 +29,7 @@
 
 ## Requirements
 
-- Python 3.10+
+- Python 3.11
 - PySide6
 - vtk
 - rdkit
@@ -43,12 +43,6 @@ pip install PySide6 vtk rdkit numpy
 
 ```
 python ChemPad.py
-```
-
-Self-test:
-
-```
-python ChemPad.py --selftest
 ```
 
 ## Project files
@@ -117,11 +111,10 @@ The header of `chempad_widget.py` documents the full API.
 | Ctrl+P | Screenshot |
 | Ctrl+W | Show all shortcuts |
 
-## Build a Windows executable
+## Authors
 
-```
-pyinstaller --name ChemPad --icon iconx.ico --noconsole --onedir ChemPad.py
-```
+Molecular Design Group
+Dublin City University
 
 The window icon is loaded from `icony.ico` next to the executable, so copy it into `dist/ChemPad/`.
 
