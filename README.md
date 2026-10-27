@@ -15,7 +15,7 @@
 
 ## GUI
 
-<p align="center"><img src="screenshot.png" alt="ChemPad screenshot" width="600"></p>
+<p align="left"><img src="screenshot.png" alt="ChemPad screenshot" width="600"></p>
 
 
 ## Features
@@ -126,3 +126,4 @@ The header of `chempad_widget.py` documents the full API.
 ## Contributors
 
 Molecular Design Group
+
