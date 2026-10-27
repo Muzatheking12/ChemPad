@@ -125,9 +125,9 @@ The header of `chempad_widget.py` documents the full API.
 
 ## Contributors
 
-Molecular Design Group
+Molecular Design Group, Dublin City University
 
-Muzammil Kabier: muzammil.kabier2@mail.dcu.ie
+Muzammil Kabier: muzammil.kabier2@mail.dcu.ie,
 Anthony Chubb: anthony.chubb@dcu.ie
 
 
