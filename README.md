@@ -20,6 +20,10 @@
 
 ## Features
 
+- ACS Style
+- Mechanism Arrows, Lone Pairs and Amino Acids
+- 3D Visualization within Canvas
+- Color Substructure to your needs
 - Draw atoms, single/double/triple bonds, chains and fused structures with the mouse
 - Ring library (carbocycles, aromatic and saturated heterocycles, fused rings)
 - Functional group library, attached to an atom straight from the right-click menu
