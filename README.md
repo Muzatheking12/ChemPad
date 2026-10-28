@@ -169,6 +169,13 @@ Molecular Design Group, Dublin City University
 
 Muzammil Kabier: muzammil.kabier2@mail.dcu.ie,
 Anthony Chubb: anthony.chubb@dcu.ie,
-Paul Clarke: paul.clarke@uia.no
+Paul Clarke: paul.clarke@uia.no,
+Darren Fayne: darren.p.fayne@dcu.ie
+
+## Cite Us
+
+Kabier, M.; Chubb, A.; Clarke, P; Fayne, D. ChemPad: A notepad for chemistry. https://github.com/Muzatheking12/ChemPad
+
+
 
 
