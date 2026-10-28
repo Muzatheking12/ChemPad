@@ -10,7 +10,7 @@ from chempad_widget import MolSketchWidget
 if getattr(sys, 'frozen', False):
     import pyi_splash
 
-mainpath = os.path.dirname(sys.executable)
+mainpath = os.path.dirname(__file__)
 iconx = os.path.join(mainpath, r'icony.ico')
 
 
