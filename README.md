@@ -107,7 +107,7 @@ python ChemPad.py
 |---|---|
 | `ChemPad.py` | Application window and entry point |
 | `chempad_widget.py` | `MolSketchWidget`, the embeddable PySide6 widget |
-| `chempad_core.py` | Sketch engine: drawing, bonds, rings, groups, 3D embedding |
+| `chempad_core.py` | Sketch engine: drawing, bonds, rings, groups, embedding |
 
 ## Use the widget in your own PySide6 app
 
