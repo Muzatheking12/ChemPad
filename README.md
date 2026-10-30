@@ -46,7 +46,28 @@ Download the installer from SourceForge and run it:
 
 [![Download ChemPad](https://img.shields.io/sourceforge/dt/chempad.svg)](https://sourceforge.net/projects/chempad/files/latest/download)
 
-### Linux
+### Linux desktop app
+
+To install launcher in app-menu:
+
+```
+git clone https://github.com/Muzatheking12/ChemPad.git
+cd ChemPad
+uv venv --python 3.12
+uv sync
+chmod +x install-desktop.sh uninstall-desktop.sh
+./install-desktop.sh
+```
+
+To create desktop launcher (optional):
+
+```
+cp ~/.local/share/applications/chempad.desktop ~/Desktop/
+chmod +x ~/Desktop/chempad.desktop
+gio set ~/Desktop/chempad.desktop metadata::trusted true
+```
+
+### Linux command line
 
 Deactivate conda (if running) before activating uv:
 
@@ -55,7 +76,7 @@ conda deactivate
 conda deactivate
 ```
 
-Clone the repository and install the requirements:
+Clone the repository and install the requirements (run this once):
 
 <!--
 ```
@@ -74,7 +95,7 @@ cd ChemPad
 uv venv --python 3.12
 ```
 
-Run ChemPad:
+Run ChemPad (from terminal):
 
 ```
 source .venv/bin/activate
@@ -82,7 +103,7 @@ uv sync
 python ChemPad.py
 ```
 
-To deactivate the ChemPad environment:
+To deactivate the ChemPad environment (optional):
 
 ```
 deactivate
