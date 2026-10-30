@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=ChemPad
+Comment=ChemPad chemical drawing app
+Exec="@PYTHON@" "@APP_DIR@/ChemPad.py"
+Path=@APP_DIR@
+Icon=chempad
+Terminal=false
+Categories=Science;Chemistry;Education;
+StartupWMClass=ChemPad
