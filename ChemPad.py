@@ -38,6 +38,8 @@ def selftest():
     import tempfile
     os.environ.setdefault("QT_QPA_PLATFORM", "offscreen")
     app = QtWidgets.QApplication(sys.argv)
+    app.setApplicationName("ChemPad")
+    app.setDesktopFileName("chempad")
     w = MolSketchWidget()
     w.resize(900, 600)
     w.show()
@@ -87,6 +89,8 @@ if __name__ == "__main__":
         selftest()
     else:
         app = QtWidgets.QApplication(sys.argv)
+        app.setApplicationName("ChemPad")
+        app.setDesktopFileName("chempad")
         win = TestWindow()
         if getattr(sys, 'frozen', False):
             pyi_splash.close()
