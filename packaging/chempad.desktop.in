@@ -2,7 +2,7 @@
 Type=Application
 Version=1.0
 Name=ChemPad
-Comment=ChemPad chemical drawing app
+Comment="ChemPad: A notepad for chemistry."
 Exec="@PYTHON@" "@APP_DIR@/ChemPad.py"
 Path=@APP_DIR@
 Icon=chempad
